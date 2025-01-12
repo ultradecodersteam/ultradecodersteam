@@ -21,7 +21,7 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{UltraDecodersTeam}/count.svg)
 
 
 ## 💰 You can help us by Donating
