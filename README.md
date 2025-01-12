@@ -1,49 +1,40 @@
-<h2 align="left">Hi 👋! My name is Youssef, I'm a Devoloper</h2>
+## Hi there! 👋
 
-###
+We are the **Ultra Decoders Team**, a passionate group of developers dedicated to creating innovative solutions and pushing the boundaries of technology. Join us on our journey to decode the future!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ultradecodersteam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ultradecodersteam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## About Me
 
-###
+We are a team of enthusiastic developers and tech lovers. Currently, we are not affiliated with any specific company, but we are always on the lookout for exciting projects to collaborate on. Feel free to reach out for any support or inquiries!
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## Skills & Technologies
 
-###
+py,cs,cpp,c,bash,java,html,css,js,nodejs
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## Top Projects
 
-###
+Here are some of our notable projects:
+- [About Repository](https://github.com/ultradecodersteam/about)
+  - **Description**: A project to showcase our team and skills.
+  - **Stars**: 0
+  - **Primary Language**: Not specified
+  - **Forks**: 0 | **Issues**: 0
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## GitHub Stats
 
-###
+![GitHub followers](https://img.shields.io/github/followers/ultradecodersteam?style=social) ![Public Repos](https://img.shields.io/badge/Public%20Repos-1-brightgreen) ![Total Stars](https://img.shields.io/badge/Stars-0-yellow)
 
-<br clear="both">
+- **Public Repositories**: 1
+- **Followers**: 0
+- **Following**: 0
 
-<img src="https://raw.githubusercontent.com/ultradecodersteam/about/output/snake.svg" alt="Snake animation" />
+## Recent Activity
 
-###
+We are just starting out, so stay tuned for updates and contributions!
+
+## Latest Blog Posts
+
+No blog posts yet! But we are planning to share our insights and experiences soon.
+
+## Connect with Me
+
+{}
