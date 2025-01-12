@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/ultradecodersteam/about.git" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ultradecodersteam/about/output/snake.svg" alt="Snake animation" />
 
 ###
