@@ -26,7 +26,4 @@
 ---
 
 ## 💰 You can help us by Donating
-
-<a href="https://www.buymeacoffee.com/ultradecodersteam" target="_blank" style="display:inline-block;background-color:#FFDD00;color:#000000;padding:10px 20px;font-family:Cookie;font-size:20px;border:2px solid #000000;border-radius:5px;text-decoration:none;">
-☕ Buy me a coffee
-</a>
+[![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=ultradecodersteam&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/ultradecodersteam)
