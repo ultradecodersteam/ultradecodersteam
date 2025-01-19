@@ -1,7 +1,5 @@
 # 💫 About Us - Ultra Decoders Team
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcxanp4c3I4eWZhazh1dW45aDFqbWpmaGFhZXlwcGg2dm5nMWw0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif" alt="Ultra Decoders Team" width="100%">
-
 🔭 We’re currently working on **innovative software solutions** and **cross-platform projects**<br>
 👯 We’re looking to collaborate on **open-source projects** and **tech challenges**<br>
 🤝 We’re looking for help with **advanced algorithms**, **optimizing code**, and **expanding our skill sets**<br>
@@ -27,4 +25,5 @@
 ## 💰 You can help us by Donating
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcxanp4c3I4eWZhazh1dW45aDFqbWpmaGFhZXlwcGg2dm5nMWw0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif" alt="Ultra Decoders Team" width="100%">
+
 [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=ultradecodersteam&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/ultradecodersteam)
