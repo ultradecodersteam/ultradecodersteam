@@ -45,7 +45,9 @@
 
 </div>
 
----
+</div>
+
+<div align="center">
 
 ## 💰 You can help us by Donating
 
@@ -59,4 +61,4 @@
   </tr>
 </table>
 
-
+</div>
