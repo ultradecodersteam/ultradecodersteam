@@ -24,7 +24,7 @@
 
 ## 💰 You can help us by Donating
 
-<div style="background-color: black; padding: 10px; text-align: center;">
+<div style="background-color: green; padding: 10px; text-align: center;">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcxanp4c3I4eWZhazh1dW45aDFqbWpmaGFhZXlwcGg2dm5nMWw0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif" alt="Donate GIF" width="100%">
 </div>
 
