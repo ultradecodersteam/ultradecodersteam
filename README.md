@@ -1,64 +1,70 @@
-# 💫 About Us - Ultra Decoders Team
+# 💫 Ultra Decoders Team
 
-🔭 We’re currently working on **innovative software solutions** and **cross-platform projects**<br>
-👯 We’re looking to collaborate on **open-source projects** and **tech challenges**<br>
-🤝 We’re looking for help with **advanced algorithms**, **optimizing code**, and **expanding our skill sets**<br>
-🌱 We’re currently learning **AI**, **machine learning**, and **cloud computing**<br>
-💬 Ask us about **programming languages**, **project management**, and **best development practices**<br>
-⚡ Fun fact: We love building projects that make a difference in the tech world! 🌍✨
+**We’re a passionate team of developers focused on innovative software solutions and cross-platform projects.**
+
+---
+
+## 🔭 What We’re Working On
+
+- Building **cutting-edge applications** in various programming languages.
+- Collaborating on **open-source projects** and solving **tech challenges**.
+- Learning **AI**, **Machine Learning**, and **Cloud Computing**.
+
+---
+
+## 🤝 We’re Looking To Collaborate On
+
+- Advanced **algorithms** and **optimizing code**.
+- **Project management** and **best development practices**.
+- Expanding our **skills** across various domains.
+
+---
+
+## 🌱 Current Focus Areas
+
+- **Artificial Intelligence (AI)**  
+- **Machine Learning (ML)**  
+- **Cloud Computing**
+
+---
+
+## 💻 Our Tech Stack
 
 <div align="center">
-
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UltraDecodersTeam) 
-[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=cian)](https://t.me/u78oo)
-
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 </div>
 
-<div align="center">
+---
 
-## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## 🌐 Connect With Us
 
-</div>
+- [YouTube](https://youtube.com/@UltraDecodersTeam)  
+- [Telegram](https://t.me/u78oo)  
 
-<div align="center">
+---
 
-### 👽 Profile Visits
+## 👽 Profile Visits
+
 ![Visitor Count](https://profile-counter.glitch.me/{UltraDecodersTeam}/count.svg)
 
-</div>
+---
 
-<div align="center">
+## ✍️ Inspirational Dev Quote
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-</div>
+---
 
-</div>
+## 💰 Support Our Work
 
-<div align="center">
+If you find our projects valuable, you can support us through a small donation. Your contributions help us improve and grow.
 
-## 💰 You can help us by Donating
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.buymeacoffee.com/ultradecodersteam" target="_blank">
-        <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=ultradecodersteam&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee">
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+<a href="https://www.buymeacoffee.com/ultradecodersteam" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=ultradecodersteam&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee">
+</a>
