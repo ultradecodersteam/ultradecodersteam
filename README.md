@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td style="background-color: black; text-align: center; padding: 10px;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcxanp4c3I4eWZhazh1dW45aDFqbWpmaGFhZXlwcGg2dm5nMWw0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif" alt="Donate GIF" width="100%">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBwanRhd20wa245dXZhMWNuYnRhNTdvZmR2bjBoc2M0MDcwN2NudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDQOtnWgsBx99cNoyH/giphy.gif" alt="Donate GIF" width="100%">
     </td>
   </tr>
 </table>
