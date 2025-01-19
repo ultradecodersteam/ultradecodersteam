@@ -24,9 +24,14 @@
 
 ## 💰 You can help us by Donating
 
-<div style="background-color: green; padding: 100px; text-align: center;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcxanp4c3I4eWZhazh1dW45aDFqbWpmaGFhZXlwcGg2dm5nMWw0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif" alt="Donate GIF" width="100%">
-</div>
+<table>
+  <tr>
+    <td style="background-color: black; text-align: center; padding: 10px;">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcxanp4c3I4eWZhazh1dW45aDFqbWpmaGFhZXlwcGg2dm5nMWw0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif" alt="Donate GIF" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 
 [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=ultradecodersteam&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/ultradecodersteam)
