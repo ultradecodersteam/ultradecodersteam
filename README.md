@@ -31,6 +31,11 @@
 
 </div>
 
+
+![Ultradecodersteam 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ultradecodersteam&show_icons=true&include_all_commits=true&theme=vue-dark)  
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ultradecodersteam&exclude_repo=swype-patch&theme=vue-dark&layout=compact)  
+
 <div align="center">
 
 ### 👽 Profile Visits
