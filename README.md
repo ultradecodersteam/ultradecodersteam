@@ -31,8 +31,10 @@
 
 </div>
 
-
+<div align="center">
 ![Ultradecodersteam 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ultradecodersteam&show_icons=true&include_all_commits=true&theme=vue-dark)  
+
+<div align="center">
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ultradecodersteam&exclude_repo=swype-patch&theme=vue-dark&layout=compact)  
 
