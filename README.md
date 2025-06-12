@@ -32,6 +32,9 @@
 </div>
 
 <div align="center">
+## 🌐 Stats:
+
+<div align="center">
 
 ![Ultradecodersteam 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ultradecodersteam&show_icons=true&include_all_commits=true&theme=vue-dark)  
 
