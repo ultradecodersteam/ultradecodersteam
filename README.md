@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 🌐 Stats:
+## 🔥 Statistics:
 
 <div align="center">
 
